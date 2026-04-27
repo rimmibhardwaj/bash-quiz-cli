@@ -99,4 +99,5 @@ Feel free to fork the repo and improve it. Suggestions are always welcome!
 ## 📬 Connect
 
 If you found this interesting, let’s connect on LinkedIn 🚀
+https://www.linkedin.com/in/rimmi-bhardwaj/
 
